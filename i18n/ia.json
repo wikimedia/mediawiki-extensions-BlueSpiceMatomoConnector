@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"bs-matomoconnector-extension-description": "Permitte le integration de Matomo in le wiki pro crear tabulieros de instrumentos in Matomo",
+	"bs-matomoconnector-pref-bsprivacyintegration": "Integration de BlueSpicePrivacy",
+	"bs-matomoconnector-pref-bsprivacyintegration-help": "Activar le integration de BlueSpicePrivacy. Le installation de Matomo debe haber le plug-in AjaxOptOut activate. Vide docs/PrivacyIntegration.md",
+	"bs-matomoconnector-pref-siteid": "ID del sito",
+	"bs-matomoconnector-pref-siteid-help": "Le ID del sito Matomo. Illo pote esser trovate como parametro del URL in le barra de adresse del navigator quando tu ha aperite session in Matomo.",
+	"bs-matomoconnector-pref-baseurl": "URL de base"
+}
