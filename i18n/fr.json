@@ -12,5 +12,7 @@
 	"bs-matomoconnector-pref-authtoken": "Jeton d'authentification",
 	"bs-matomoconnector-pref-authtoken-help": "Le jeton d'authentification utilisé pour l'API HTTP. Il se trouve dans Matomo : Administration > Personnel > Sécurité > Jetons d'authentification.",
 	"bs-matomoconnector-pref-optoutfooter": "Afficher le lien de désinscription dans le pied de page",
-	"bs-matomoconnector-special-optoutheading": "Service d'analyse"
+	"bs-matomoconnector-special-optoutheading": "Service d'analyse",
+	"bs-matomoconnector-optout-footerlink": "Service d'analyse",
+	"bs-matomoconnector-privacy-cookie-group": "Matomo"
 }
