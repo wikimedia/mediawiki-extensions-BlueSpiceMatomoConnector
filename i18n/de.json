@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Josef Konrad <konrad@hallowelt.biz>",
-			"Brettchenweber"
+			"Brettchenweber",
+			"Josef Konrad <konrad@hallowelt.biz>"
 		]
 	},
 	"bs-matomoconnector-extension-description": "Erlaubt die Anbindung von Matomo an das Wiki, um Dashboards in Matomo zu erstellen",
