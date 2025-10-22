@@ -25,10 +25,10 @@ class OptOut extends SpecialPage {
 
 		$output = $this->getOutput();
 		$output->setPageTitle(
-			$this->msg( 'bs-matomoconnector-special-optoutheading' )->plain()
+			$this->msg( 'bs-matomoconnector-special-optoutheading' )->text()
 		);
 		$output->addHtml(
-			$this->msg( 'bs-matomoconnector-special-privacynote' )->plain()
+			$this->msg( 'bs-matomoconnector-special-privacynote' )->text()
 		);
 
 		[ $lang ] = explode(
