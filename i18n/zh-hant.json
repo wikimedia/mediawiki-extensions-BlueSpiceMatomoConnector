@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kly"
+		]
+	},
+	"bs-matomoconnector-pref-baseurl": "基礎 URL",
+	"bs-matomoconnector-privacy-cookie-group": "Matomo"
+}
