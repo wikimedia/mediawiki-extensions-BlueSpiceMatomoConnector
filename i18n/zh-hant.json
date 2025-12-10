@@ -5,5 +5,9 @@
 		]
 	},
 	"bs-matomoconnector-pref-baseurl": "基礎 URL",
-	"bs-matomoconnector-privacy-cookie-group": "Matomo"
+	"bs-matomoconnector-privacy-cookie-group": "Matomo",
+	"bs-matomoconnector-extension-description": "允許將 Matomo 整合到 wiki 中，以便在 Matomo 中建立功能面板。",
+	"bs-matomoconnector-pref-siteid": "站台 ID",
+	"bs-matomoconnector-special-optoutheading": "分析服務",
+	"bs-matomoconnector-optout-footerlink": "分析服務"
 }
