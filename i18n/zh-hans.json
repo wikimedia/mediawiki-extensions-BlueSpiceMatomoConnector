@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Peterxy12"
+		]
+	},
+	"bs-matomoconnector-extension-description": "允许将Matomo整合到wiki中，以便在Matomo中创建功能面板。",
+	"bs-matomoconnector-pref-bsprivacyintegration": "BlueSpicePrivacy集成",
+	"bs-matomoconnector-pref-bsprivacyintegration-help": "启用BlueSpicePrivacy集成。Matomo安装必须启用AjaxOptOut插件。详见docs/PrivacyIntegration.md",
+	"bs-matomoconnector-pref-siteid": "站点ID",
+	"bs-matomoconnector-pref-siteid-help": "Matomo站点ID。当您登录Matomo时，可在浏览器地址栏中找到该ID，它以URL参数的形式呈现。",
+	"bs-matomoconnector-pref-baseurl": "基础URL",
+	"bs-matomoconnector-pref-baseurl-help": "Matomo安装的根URL（不含站点ID）。",
+	"bs-matomoconnector-pref-authtoken": "身份验证令牌",
+	"bs-matomoconnector-pref-authtoken-help": "用于HTTP API的认证令牌。可在Matomo中找到：管理 -> 个人 -> 安全 -> 认证令牌",
+	"bs-matomoconnector-pref-optoutfooter": "在页脚显示退出链接",
+	"bs-matomoconnector-special-optoutheading": "分析服务",
+	"bs-matomoconnector-optout-footerlink": "分析服务",
+	"bs-matomoconnector-privacy-cookie-group": "Matomo",
+	"bs-matomoconnector-privacy-cookie-group-desc": "我们的网站使用Matomo网络分析服务。Matomo采用名为“Cookie”的技术，即存储在您计算机上的小型文本文件，用于分析网站使用情况。Cookie生成的使用信息（包括您的简短IP地址）将传输至我们的服务器并被保存，以便我们分析网站使用情况，从而优化网站性能。在此过程中您的IP地址将立即被匿名化处理，确保您作为用户对我们保持匿名状态。Cookie生成的网站使用信息不会被传递给第三方。"
+}
