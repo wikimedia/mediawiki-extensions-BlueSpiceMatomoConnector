@@ -7,6 +7,7 @@
 			"解浪"
 		]
 	},
+	"bs-matomoconnector-pref-bsprivacyintegration": "BlueSpicePrivacy 통합",
 	"bs-matomoconnector-pref-siteid": "사이트 ID",
 	"bs-matomoconnector-pref-baseurl": "기본 URL",
 	"bs-matomoconnector-pref-authtoken": "인증 토큰",
