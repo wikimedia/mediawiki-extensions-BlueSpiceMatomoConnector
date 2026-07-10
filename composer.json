@@ -35,7 +35,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"BlueSpice\\MatomoConnector\\" : "src"
+			"BlueSpice\\MatomoConnector\\": "src"
 		}
 	},
 	"extra": {
