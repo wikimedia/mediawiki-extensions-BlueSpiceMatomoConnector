@@ -6,6 +6,9 @@ use BlueSpice\Privacy\Hook\BlueSpicePrivacyCookieConsentProviderGetGroups;
 
 class AddMatomoCookieGroup extends BlueSpicePrivacyCookieConsentProviderGetGroups {
 
+	/**
+	 * @return bool
+	 */
 	protected function skipProcessing() {
 		if (
 			!$this->getConfig()->get( 'MatomoConnectorBaseUrl' ) ||
@@ -17,6 +20,9 @@ class AddMatomoCookieGroup extends BlueSpicePrivacyCookieConsentProviderGetGroup
 		return false;
 	}
 
+	/**
+	 * @return bool
+	 */
 	protected function doProcess() {
 		$baseUrl = $this->getConfig()->get( 'MatomoConnectorBaseUrl' );
 		$baseUrl = rtrim( $baseUrl, '/' );

@@ -40,6 +40,9 @@ class AddFooterLink implements SkinAddFooterLinksHook {
 		$footerItems[ 'matomoconnector-optout' ] = $link;
 	}
 
+	/**
+	 * @return bool
+	 */
 	private function shouldSkip() {
 		$config = $this->configFactory->makeConfig( 'bsg' );
 		if (
