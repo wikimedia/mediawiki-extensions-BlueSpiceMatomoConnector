@@ -12,11 +12,7 @@ module.exports = function ( grunt ) {
 				cache: true,
 				fix: grunt.option( 'fix' )
 			},
-			all: [
-				'**/*.{css,less}',
-				'!node_modules/**',
-				'!vendor/**'
-			]
+			all: '.'
 		},
 		banana: conf.MessagesDirs
 	} );
