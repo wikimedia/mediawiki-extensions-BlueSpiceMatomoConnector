@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"AhmedG612"
+		]
+	},
+	"bs-matomoconnector-extension-description": "Waxay oggolaanaysaa in Matomo lagu dhex daro wiki-ga si loogu abuuro dashboards gudaha Matomo",
+	"bs-matomoconnector-pref-bsprivacyintegration": "Is dhexgalka BlueSpicePrivacy",
+	"bs-matomoconnector-pref-bsprivacyintegration-help": "Daar is dhexgalka BlueSpicePrivacy. Rakibidda Matomo waa inay lahaataa furaha AjaxOptOut oo la daaray. Eeg docs/PrivacyIntegration.md",
+	"bs-matomoconnector-pref-siteid": "Aqoonsiga goobta",
+	"bs-matomoconnector-pref-siteid-help": "Aqoonsiga goobta Matomo. Waxaa laga heli karaa halbeegga URL-ka ee ku jira baarka cinwaanka biraawsarka marka aad gasho Matomo.",
+	"bs-matomoconnector-pref-baseurl": "URL-ka aasaasiga ah",
+	"bs-matomoconnector-pref-baseurl-help": "URL-ka xididka ee rakibidda Matomo oo aan lahayn aqoonsiga goobta.",
+	"bs-matomoconnector-pref-authtoken": "Calaamadda xaqiijinta",
+	"bs-matomoconnector-pref-authtoken-help": "Calaamadda xaqiijinta ee loo isticmaalo HTTP API. Waxaa laga heli karaa Matomo: Maamulka -> Shakhsiga -> Amniga -> Calaamadaha xaqiijinta",
+	"bs-matomoconnector-pref-optoutfooter": "Ku muuji xiriiriyaha ka-noqoshada oggolaanshaha qaybta hoose ee bogga",
+	"bs-matomoconnector-pref-optoutfooter-help": "Waxay ku muujisaa xiriiriyaha \"Adeegga falanqaynta\" qaybta hoose ee bogga wiki-ga. Bogga adeegga falanqaynta wuxuu ka kooban yahay sanduuq calaamadayn ah oo lagu joojinayo ka-qaybgalka Matomo.",
+	"bs-matomoconnector-special-optoutheading": "Adeegga falanqaynta",
+	"bs-matomoconnector-special-privacynote": "<p>Websaytkeennu wuxuu isticmaalaa Matomo, oo ah adeeg falanqaynta webka. Matomo wuxuu isticmaalaa waxa loo yaqaan \"Kukiyada\". Kuwani waa faylal qoraal oo yaryar oo lagu kaydiyo kombiyuutarkaaga, kuwaas oo noo oggolaanaya inaan falanqayno isticmaalka websaytkeennu. Macluumaadka isticmaalka ee ay kukiyada soo saaraan (oo ay ku jirto cinwaankaaga IP-ga oo la soo gaabiyay) waxaa loo gudbiyaa adeegayaga oo la kaydiyaa si aan u falanqayno isticmaalka websaytkeennu, taas oo naga caawinaysa inaan hagaajino websaytkeennu. Cinwaankaaga IP-ga isla markiiba waxaa laga dhigayaa mid aan lagu aqoonsan karin habkan, si aad noogu ahaato isticmaale aan la aqoonsan karin. Macluumaadka ku saabsan isticmaalkaaga websaytka ee ay kukiyadu soo saaraan looma gudbin doono dhinacyo saddexaad. Waxaad ka hortagi kartaa isticmaalka kukiyada adigoo isticmaalaya dejimaha ku habboon ee biraawsarkaaga. Si kastaba ha ahaatee, tani waxay keeni kartaa inaadan si buuxda u isticmaali karin dhammaan shaqooyinka websaytka.</p>\n<br />\n<p>Haddii aadan oggolayn kaydinta iyo qiimaynta xogtan ku saabsan isticmaalkaaga websaytka, waxaad ka bixi kartaa kaydinta iyo isticmaalkeeda wakhti kasta adigoo gujinaya jiirka hoose. Xaaladdan, waxaa la kaydin doonaa kukiga loo yaqaan \"kukiga ka bixitaanka\", kaas oo ka joojinaya Matomo inuu kaydiyo xogta kulanka. Fadlan ogow: Haddii aad tirtirto kuki kaaga, tani waxay sidoo kale tirtiri doontaa kukiyada ka bixitaanka, kaas oo laga yaabo inaad markaas dib u hawlgeliso.</p>\n<br />\n<h3>Diidmo:</h3>",
+	"bs-matomoconnector-optout-footerlink": "Adeegga falanqaynta",
+	"bs-matomoconnector-privacy-cookie-group": "Matomo",
+	"bs-matomoconnector-privacy-cookie-group-desc": "Websaytkeennu wuxuu isticmaalaa Matomo, oo ah adeeg falanqaynta webka. Matomo wuxuu isticmaalaa waxa loo yaqaan \"Kukiyada\". Kuwani waa faylal qoraal oo yaryar oo lagu kaydiyo kombiyuutarkaaga, kuwaas oo noo oggolaanaya inaan falanqayno isticmaalka websaytkeennu. Macluumaadka isticmaalka ee ay kukiyadu soo saaraan (oo ay ku jirto cinwaankaaga IP-ga oo la soo gaabiyay) waxaa loo gudbiyaa adeegayaga oo la kaydiyaa si aan u falanqayno isticmaalka websaytkeennu, taas oo naga caawinaysa inaan hagaajino websaytkeennu. Cinwaankaaga IP-ga isla markiiba waxaa laga dhigayaa mid aan lagu aqoonsan karin habkan, si aad noogu ahaato isticmaale aan la aqoonsan karin. Macluumaadka ku saabsan isticmaalkaaga websaytka ee ay kukiyadu soo saaraan looma gudbin doono dhinacyo saddexaad."
+}
