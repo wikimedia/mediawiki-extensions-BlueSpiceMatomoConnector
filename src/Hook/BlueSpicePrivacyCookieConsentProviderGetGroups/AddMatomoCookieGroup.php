@@ -29,7 +29,7 @@ class AddMatomoCookieGroup extends BlueSpicePrivacyCookieConsentProviderGetGroup
 		$this->groups['matomo'] = [
 			'label' => 'bs-matomoconnector-privacy-cookie-group',
 			'desc' => 'bs-matomoconnector-privacy-cookie-group-desc',
-			'type' => 'opt-out',
+			'type' => 'opt-in',
 			'cookies' => [],
 			'jsCallback' => [
 				'module' => 'ext.bluespice.matomoConnector.privacy',
