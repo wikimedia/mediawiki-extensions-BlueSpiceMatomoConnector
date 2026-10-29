@@ -6,8 +6,8 @@ use MediaWiki\Config\ConfigFactory;
 use MediaWiki\Hook\SkinAddFooterLinksHook;
 use MediaWiki\Linker\LinkRenderer;
 use MediaWiki\Message\Message;
+use MediaWiki\Skin\Skin;
 use MediaWiki\SpecialPage\SpecialPage;
-use Skin;
 
 class AddFooterLink implements SkinAddFooterLinksHook {
 
