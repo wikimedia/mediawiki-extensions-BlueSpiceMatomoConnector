@@ -6,7 +6,7 @@ use Exception;
 use MediaWiki\Config\ConfigFactory;
 use MediaWiki\Http\HttpRequestFactory;
 use MediaWiki\Json\FormatJson;
-use ObjectCacheFactory;
+use MediaWiki\ObjectCache\ObjectCacheFactory;
 
 class CustomDimensions {
 
