@@ -4,12 +4,17 @@ namespace BlueSpice\MatomoConnector\Special;
 
 use MediaWiki\Html\Html;
 use MediaWiki\MediaWikiServices;
-use MediaWiki\SpecialPage\SpecialPage;
+use MediaWiki\SpecialPage\UnlistedSpecialPage;
 
-class OptOut extends SpecialPage {
+class OptOut extends UnlistedSpecialPage {
 
 	public function __construct() {
-		parent::__construct( 'OptOut', 'read', false );
+		parent::__construct( 'OptOut' );
+	}
+
+	/** @inheritDoc */
+	public function getRestriction(): string {
+		return 'read';
 	}
 
 	/** @inheritDoc */
