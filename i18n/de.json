@@ -8,6 +8,7 @@
 	},
 	"bs-matomoconnector-extension-description": "Erlaubt die Anbindung von Matomo an das Wiki, um Dashboards in Matomo zu erstellen",
 	"bs-matomoconnector-pref-bsprivacyintegration": "BlueSpicePrivacy-Integration",
+	"bs-matomoconnector-pref-bsprivacyintegration-help": "{{#FORMAL:Aktiviere|Aktivieren Sie}} die BlueSpicePrivacy-Integration. Die Matomo-Installation muss das AjaxOptOut-Plugin aktiviert haben. Siehe docs/PrivacyIntegration.md",
 	"bs-matomoconnector-pref-siteid": "Seiten-ID",
 	"bs-matomoconnector-pref-siteid-help": "Matomo-Seiten-ID. Sichtbar als URL-Parameter in der Adressleiste des Browsers, wenn {{#FORMAL:du|Sie}} bei Matomo angemeldet {{#FORMAL:bist|sind}}.",
 	"bs-matomoconnector-pref-baseurl": "Basis-URL",
