@@ -18,5 +18,6 @@
 	"bs-matomoconnector-pref-siteid-help": "Matomo-Seiten-ID. Sichtbar als URL-Parameter in der Adressleiste des Browsers, wenn {{#FORMAL:du|Sie}} bei Matomo angemeldet {{#FORMAL:bist|sind}}.",
 	"bs-matomoconnector-pref-bsprivacyintegration": "BlueSpicePrivacy-Integration",
 	"bs-matomoconnector-pref-authtoken": "Authentifizierungstoken",
-	"bs-matomoconnector-privacy-cookie-group": "Matomo"
+	"bs-matomoconnector-privacy-cookie-group": "Matomo",
+	"bs-matomoconnector-pref-bsprivacyintegration-help": "{{#FORMAL:Aktiviere|Aktivieren Sie}} die BlueSpicePrivacy-Integration. Die Matomo-Installation muss das AjaxOptOut-Plugin aktiviert haben. Siehe docs/PrivacyIntegration.md"
 }
