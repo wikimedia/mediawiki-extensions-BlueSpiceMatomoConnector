@@ -4,5 +4,9 @@
 			"شاه زمان پټان"
 		]
 	},
-	"bs-matomoconnector-privacy-cookie-group": "ماتومو"
+	"bs-matomoconnector-privacy-cookie-group": "ماتومو",
+	"bs-matomoconnector-extension-description": "په ويکي کې د ماتومو ځای‌پرځای‌کولو ته اجازه ورکوي؛ ترڅو ماتومو کې ليددړې جوړې کړي",
+	"bs-matomoconnector-pref-bsprivacyintegration": "د بلوسپايس‌پټنتيا ادغام",
+	"bs-matomoconnector-pref-siteid": "وېبځي پېژند",
+	"bs-matomoconnector-pref-baseurl": "بنسټيز وېبتړ"
 }
